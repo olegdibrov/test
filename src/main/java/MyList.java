@@ -13,4 +13,8 @@ public class MyList extends AbstractList<String> {
     public void newMethod() {
         System.out.println("new method");
     }
+
+    public void masterMethod() {
+        System.out.println("master");
+    }
 }
