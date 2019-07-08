@@ -5,6 +5,11 @@ public class Test {
 
 
     public void rebase() {
-        
+
+    }
+
+    public void rebase2() {
+
     }
 }
+
