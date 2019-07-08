@@ -9,4 +9,8 @@ public class MyList extends AbstractList<String> {
     public int size() {
         return 1;
     }
+
+    public void newMethod() {
+        System.out.println("new method");
+    }
 }
